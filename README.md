@@ -122,7 +122,7 @@ model Post {
 | `PATCH`  | `/:id`   | `Authorization: TOKEN` | `UpdatePostDto` | `{ post: Post }`    | update a Post.         |
 | `DELETE` | `/:id`   | `Authorization: TOKEN` | `null`          | `null`              | delete a Post.         |
 
-## <a name='story'>�😻 Credits</a>
+## <a name='credits'>😻 Credits</a>
 
 * Omma Habiba BIPLOB student at EFREI PARIS
 * Contact me on Linkedin https://www.linkedin.com/in/omma-habiba-biplob/
