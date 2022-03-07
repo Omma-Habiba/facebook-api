@@ -124,7 +124,7 @@ model Post {
 
 ## <a name='credits'>😻 Credits</a>
 
-* Omma Habiba BIPLOB student at EFREI PARIS
+* Made with ❤ by Omma Habiba BIPLOB (student at EFREI PARIS)
 * Contact me on Linkedin https://www.linkedin.com/in/omma-habiba-biplob/
 
 <p align="right"><a href="#top">back to top</a></p>
